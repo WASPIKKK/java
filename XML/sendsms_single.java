@@ -6,7 +6,7 @@ import java.net.HttpURLConnection;
 import java.io.IOException;
 import java.net.*;
 
-public class Test {
+public class "Your class name" {
     public static void main(String[] args) throws IOException {
         String url = "https://gate.smsclub.mobi/xml/";
         URL object = new URL(url);
